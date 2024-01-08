@@ -136,6 +136,3 @@ class DomainSearch(object):
             self.database.pop(domain)
         else:
             return 'The domain does not exist in the database.'
-
-
-apikey = 'e3072867b4808be5e694697d2ffa683e026d9ecb'
